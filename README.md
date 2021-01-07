@@ -1,4 +1,4 @@
-### Hola 👋, mi nombre es Michel Hdez.
+### Hola  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, mi nombre es Michel Hdez. 🇲🇽 🇺🇸 🇯🇵
 
 I'm Michel and i'm a web developer with 2 years of experience. I have been working in various fields, starting from sales, finances and ending with Help Desk. 
 I have always been hard working and goal's focused with proven results.
@@ -19,4 +19,12 @@ Habilidades: HTML / CSS / JS / JQUERY / PHP / MYSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichelHdez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/michelsoy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MichelSoy_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/RUDqzcjINLuv-Eb7lCp-EA)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHdez)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHdez)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<PHP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<MySQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
