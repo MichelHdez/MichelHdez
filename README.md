@@ -1,4 +1,4 @@
-### Hola  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, mi nombre es Michel Hdez. 🇲🇽 🇺🇸 🇯🇵
+### Hola  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, mi nombre es Michel Hdez. :dog2: 🇲🇽 🇺🇸 🇯🇵
 
 I'm Michel and i'm a web developer with 2 years of experience. I have been working in various fields, starting from sales, finances and ending with Help Desk. 
 I have always been hard working and goal's focused with proven results.
