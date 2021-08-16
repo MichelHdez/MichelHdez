@@ -28,9 +28,9 @@ He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, a
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHdez&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michelhdez&" alt="michelhdez" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michelhdez&" alt="michelhdez" />
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelhdez&show_icons=true&locale=en&layout=compact" alt="michelhdez" /></p>
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelhdez&show_icons=true&locale=en&layout=compact" alt="michelhdez" />
 
 
 ### Welcome Visitors
