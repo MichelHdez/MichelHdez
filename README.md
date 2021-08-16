@@ -32,4 +32,4 @@ He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, a
 
 
 ### Welcome Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p><img align="left" ![visitors]("https://visitor-badge.glitch.me/badge?page_id=page.id") /></p>
