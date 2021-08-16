@@ -16,7 +16,7 @@ He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, a
 
 
 ### 📫 Contact with me - Cómo contactarme: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichelHdez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/michelsoy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MichelSoy_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/RUDqzcjINLuv-Eb7lCp-EA)  
+![Twitter Follow](https://img.shields.io/twitter/follow/MichelSoy_?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1d3557)
