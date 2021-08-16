@@ -1,18 +1,19 @@
 ### Hola  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, mi nombre es Michel Hdez. :dog2: 🇲🇽 🇺🇸 🇯🇵
 
-I'm Michel and i'm a web developer with 2 years of experience. I have been working in various fields, starting from sales, finances and ending with Help Desk. 
+Welcome to my GitHub profile. I'm a web developer with 2 years of experience. I have been working in different fields, starting from sales, finances and ending with Help Desk. 
 I have always been hard working and goal's focused with proven results.
 
-- 🌱 Currently i'm into TypeScript, Angular y Japanese Language.
+- 🌱 Currently i'm into JS, Angular y Japanese Language.
 - 👯 I want to work with other people and collaborate in many projects.
 - 💬 Ask me whatever you want about web development and i will help you. I like to work in group with other people and learn together.
 
-Soy Michel y soy un desarrollador web con 2 años de experiencia.
-He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, atención al cliente, mantenimiento a equipo de cómputo.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador web con más de 2 años de experiencia.
+He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, atención al cliente, mantenimiento a equipo de cómputo, desarrollo web y más.
 
-- 🌱 Estoy aprendiendo TypeScript, Angular y el idioma Japonés.
-- 👯 Quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos 
-- 💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y con gusto te ayudaré. Me gusta colaborar, el trabajo en equipo y aprender en conjunto.  
+- 🌱 Actualmente estoy inmerso en el mundo de JS, Angular y el idioma Japonés.
+- 👯 Me interesa y quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos 
+- 💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré. 
+- Me gusta colaborar, el trabajo en equipo y aprender en conjunto.  
 
 
 ### 📫 How to reach me - Cómo contactarme: 
