@@ -27,4 +27,6 @@ He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, a
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1d3557)
 ![](https://img.shields.io/badge/<UI/UX>-<Figma>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1d3557)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHdez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHdez&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
