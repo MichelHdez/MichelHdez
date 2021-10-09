@@ -61,5 +61,5 @@ Other Cool Tools
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelhdez&show_icons=true&locale=en&layout=compact" alt="michelhdez" />
 
 
-### Welcome Visitors - Bienvenidos visitantes  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Welcome  - Bienvenidos  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
