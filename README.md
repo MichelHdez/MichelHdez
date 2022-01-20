@@ -35,7 +35,7 @@ Back-end <p> <a href="https://www.php.net" target="_blank"> <img src="https://ra
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><p>
 
 Mobile App
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></p>
 
   
 Database  
@@ -61,4 +61,3 @@ Other Cool Tools
 
 ### Welcome  - Bienvenidos  
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
