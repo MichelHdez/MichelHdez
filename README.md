@@ -50,14 +50,12 @@ Other Cool Tools
 <p><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
   
-
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHdez&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=michelhdez&" alt="michelhdez" />
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelhdez&show_icons=true&locale=en&layout=compact" alt="michelhdez" />
-
 
 ### Welcome  - Bienvenidos  
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
