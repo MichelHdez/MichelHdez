@@ -15,13 +15,6 @@ He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, a
 - 💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS, PHP y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré. 
 - Me gusta colaborar, el trabajo en equipo y aprender en conjunto.  
 
-
-### 📫 How to reach me - Cómo contactarme: 
-<p align="left">
-<a href="https://twitter.com/michelsoy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michelsoy_" height="30" width="40" /></a>
-<a href="https://instagram.com/michelsoy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michelsoy_" height="30" width="40" /></a>
-</p>
-
 ### Languages and Tools: - Lenguajes y Herramientas:
 Front-end <p><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
