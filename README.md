@@ -49,6 +49,3 @@ Other Cool Tools
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=michelhdez&" alt="michelhdez" />
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelhdez&show_icons=true&locale=en&layout=compact" alt="michelhdez" />
-
-### Welcome  - Bienvenidos  
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
