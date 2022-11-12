@@ -3,14 +3,12 @@
 Welcome to my GitHub profile. I'm a web developer. I have been working in different fields, starting from sales, finances and ending with Help Desk. 
 I have always been hard working and goal's focused with proven results.
 
-- 🌱 Currently i'm into JS, Angular y Japanese Language.
 - 👯 I want to work with other people and collaborate in many projects.
 - 💬 Ask me whatever you want about web development and i will help you. I like to work in group with other people and learn together.
 
 Bienvenido a mi perfil de GitHub.
 He trabajado y tengo experiencia en diversos ambitos que van desde las ventas, atención al cliente, mantenimiento a equipo de cómputo, desarrollo web y más.
 
-- 🌱 Actualmente estoy inmerso en el mundo de JS, Angular y el idioma Japonés.
 - 👯 Me interesa y quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos 
 - 💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS, PHP y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré. 
 - Me gusta colaborar, el trabajo en equipo y aprender en conjunto.  
